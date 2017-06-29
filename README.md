@@ -8,7 +8,7 @@ Python Visualization
 
 Bokeh
 
-- http://bokeh.pydata.org/en/latest/docs/user_guide/
+- http://bokeh.pydata.org/en/latest/docs/user_guide/annotations.html
 
 Jupyter Notebooks
 
